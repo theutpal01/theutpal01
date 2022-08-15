@@ -7,10 +7,7 @@
 
 ## 🌱 I’m presently learning ...
 - C++
-- SDL2
-
-<!-- ## 👯 I’m looking to collaborate on ...
-- C++ -->
+- Next.js
 
 <!-- ## 👷🏻‍♂️ I've made a contribution in ... -->
 
@@ -27,6 +24,7 @@
 ## 🤝 Connect with me ...
 
 <a href="https://twitter.com/theutpal01" target="_blank"><img src="https://shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/theutpal01" target="_blank"><img src="https://shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
     
   
 <!-- ## 👨🏻‍💻 Coding Profiles ...
