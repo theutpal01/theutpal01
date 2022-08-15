@@ -24,7 +24,7 @@
 ## 🤝 Connect with me ...
 
 <a href="https://twitter.com/theutpal01" target="_blank"><img src="https://shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-<a href="https://instagram.com/theutpal01" target="_blank"><img src="https://shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/theutpal01" target="_blank"><img src="https://shields.io/badge/instagram-E95950?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
     
   
 <!-- ## 👨🏻‍💻 Coding Profiles ...
@@ -43,7 +43,7 @@
 [![GitHub](https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](#)
 [![VS Code](https://shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 [![Python](https://shields.io/badge/python-246A9E?style=for-the-badge&logo=python&logoColor=FFDC00)](#)
-<!-- [![Figma](https://shields.io/badge/figma-B300F9?style=for-the-badge&logo=figma&logoColor=FFF)](#) -->
+[![Figma](https://shields.io/badge/figma-B300F9?style=for-the-badge&logo=figma&logoColor=FFF)](#)
 
 
 
