@@ -1,6 +1,8 @@
 
 <h1 align="center">Hello <img alt="👋🏻" src="./_assets/Hello.gif" width='40' />, This is Utpal</h1>
-<h3 align="center">Learner | Student | Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=Programmer;AI+Enthusiast;Senior+Secondary+Student;">
+</p>
 
 <img align="left" src="https://komarev.com/ghpvc/?username=theutpal01&label=Visitors&color=0E75B6&style=plastic" alt="theutpal01" />
 <br/>
@@ -38,11 +40,18 @@
 
 ## 🧰 Languages and Tools ...
 <!-- ![C](https://shields.io/badge/C-6063C5?style=for-the-badge&logo=C&logoColor=FFF) -->
+[![Python](https://shields.io/badge/python-246A9E?style=for-the-badge&logo=python&logoColor=FFDC00)](#)
 [![C++](https://shields.io/badge/C++-578EC8?style=for-the-badge&logo=C%2B%2B&logoColor=white)](#)
+[![HTML5](https://shields.io/badge/html-E34C26?style=for-the-badge&logo=html5&logoColor=FFF)](#)
+[![CSS3](https://shields.io/badge/css-0071C2?style=for-the-badge&logo=css3&logoColor=FFF)](#)
+[![JavaScript](https://shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)](#)
+[![PHP](https://shields.io/badge/php-8993BE?style=for-the-badge&logo=php&logoColor=white)](#)
+[![MySQL](https://shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=F29111)](#)
+[![React JS](https://shields.io/badge/react%20js-F5F5F5?style=for-the-badge&logo=react&logoColor=00CEF8)](#)
+[![Node JS](https://shields.io/badge/node%20js-303030?style=for-the-badge&logo=node.js&logoColor=008F3E)](#)
 [![GIT](https://shields.io/badge/git-F34F29?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](#)
 [![VS Code](https://shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
-[![Python](https://shields.io/badge/python-246A9E?style=for-the-badge&logo=python&logoColor=FFDC00)](#)
 [![Figma](https://shields.io/badge/figma-B300F9?style=for-the-badge&logo=figma&logoColor=FFF)](#)
 
 
@@ -54,3 +63,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theutpal01&show_icons=true&title_color=FFFFFF&icon_color=D1EBE9&text_color=DAF7DC&bg_color=151515&include_all_commits=true&count_private=true" alt="theutpal01" width="450" height="250"/></p>
 </a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=theutpal01&theme=gotham" alt="theutpal01"/></p>
