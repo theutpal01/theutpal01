@@ -1,8 +1,9 @@
 
 <h1 align="center">Hello <img alt="👋🏻" src="./_assets/Hello.gif" width='40' />, This is Utpal</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=A Programmer;AI+Enthusiast;Senior+Secondary+Student;">
+<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=A+Programmer;AI+Enthusiast;Senior+Secondary+Student;">
 </p>
+
 
 <img align="left" src="https://komarev.com/ghpvc/?username=theutpal01&label=Visitors&color=0E75B6&style=plastic" alt="theutpal01" />
 <br/>
