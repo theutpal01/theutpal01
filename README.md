@@ -36,7 +36,7 @@
 <!-- <a href="https://www.hackerearth.com/" target="_blank"><img src="https://shields.io/badge/-HackerEarth-2C3156?style=for-the-badge&logo=Hackerearth&logoColor=FFF" /></a>&nbsp; -->
 <!-- <a href="https://www.leetcode.com/" target="_blank"><img src="https://shields.io/badge/-Leetcode-FF9E00?style=for-the-badge&logo=Leetcode&logoColor=070706" /></a>&nbsp; -->
 <a href="https://www.codechef.com/users/theutpal01" target="_blank"><img src="https://shields.io/badge/-CodeChef-E4E0C8?style=for-the-badge&logo=Codechef&logoColor=753A0B" /></a>&nbsp;
-<a href="https://auth.geeksforgeeks.org/theutpal01/" target="_blank"><img src="https://shields.io/badge/-Geeks%20For%20Geeks-008F3E?style=for-the-badge&logo=GeeksForGeeks&logoColor=FFF" /></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/theutpal01/" target="_blank"><img src="https://shields.io/badge/-Geeks%20For%20Geeks-008F3E?style=for-the-badge&logo=GeeksForGeeks&logoColor=FFF" /></a>&nbsp;
 <!-- <a href="https://app.codesignal.com/profile/utpal_swr" target="_blank"><img src="https://shields.io/badge/-Code%20Signal-008F3E?style=for-the-badge&logo=CodeSignal&logoColor=FFF" /></a>&nbsp; -->
 
 
