@@ -56,7 +56,8 @@
 [![VS Code](https://shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 [![Figma](https://shields.io/badge/figma-B300F9?style=for-the-badge&logo=figma&logoColor=FFF)](#)
 
-
+## 🏷 Badges:
+[![@theutpal01's Holopin board](https://holopin.io/api/user/board?user=theutpal01)](https://holopin.io/@theutpal01)
 
 ## ⚙️ GitHub Analytics ...
 
