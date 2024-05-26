@@ -66,11 +66,11 @@
         <h2><img align="center" width="35" src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured Repositories</h2>
         <p align="center">
             <a href="https://github.com/theutpal01/QuizProgram">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=QuizProgram&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=QuizProgram&theme=vue-dark" /></a>
             <a href="https://github.com/theutpal01/TicTacToe">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=TicTacToe&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=TicTacToe&theme=vue-dark" /></a>
             <a href="https://github.com/theutpal01/The-God-Hands">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=The-God-Hands&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=The-God-Hands&theme=vue-dark" /></a>
 <!--             <a href="https://github.com/theutpal01/unchat_frontend">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=unchat_frontend&theme=dark" /></a> -->
         </p>
