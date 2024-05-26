@@ -4,9 +4,9 @@
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
-    <p>|=> Welcome to my Github profile! <=|<br />
+    <p>=> Welcome to my Github profile! <=<br />
         I am a <b>Passionate developer</b> 🚀 from <b>Uttar Pradesh, India</b>. <br />
-        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+        Developing innovative digital solutions fuels my <b>coding endeavors</b> and <b>creativity</b>. </p>
     <div>
         <a href="https://twitter.com/theutpal01" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -83,12 +83,9 @@
     <br />
     <div align="center">
         <p align="center">
-            <img height="160" alt="My Github Stats"
-				src="https://github-readme-stats.vercel.app/api?username=theutpal01&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
-            <img alt="Utpal's Github Stats" height="160" width="213"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=vue-dark&hide_border=true" />
-			<img alt="Utpal's Github Stats" height="160"
-				src="https://github-readme-streak-stats.herokuapp.com/?user=theutpal01&theme=vue-dark&hide_border=true" />
+            <img height="160" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=theutpal01&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
+			<img alt="Utpal's Github Stats" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=theutpal01&theme=vue-dark&hide_border=true" />
+            <img alt="Utpal's Github Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=vue-dark&hide_border=true" />
         </p>
 </div>
     </div>
