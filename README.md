@@ -71,6 +71,8 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=TicTacToe&theme=vue-dark" /></a>
             <a href="https://github.com/theutpal01/The-God-Hands">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=The-God-Hands&theme=vue-dark" /></a>
+	    <a href="https://github.com/theutpal01/QuiZone">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=QuiZone&theme=vue-dark" /></a>
 <!--             <a href="https://github.com/theutpal01/unchat_frontend">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=theutpal01&repo=unchat_frontend&theme=dark" /></a> -->
         </p>
